@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences9590</string>
+    <string name="shared_prefereces_text">Shared Prefereces</string>
+    <string name="first_name_text">Input First Name</string>
+    <string name="last_name_text">Input Last Name</string>
+    <string name="save_text">Save</string>
+</resources>
